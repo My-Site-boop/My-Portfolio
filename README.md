@@ -4,9 +4,10 @@
  
 I am a passionate web developer skilled in HTML, CSS and JavaScript. I enjoy building responsive, user-friendly websites and web applications. My portfolio showcases projects reflecting my dedication to clean code and great user experience.
 
-![Screenshot 2025-07-09 122857](https://github.com/user-attachments/assets/d58ab96f-ec1e-4537-9f57-db46d41c0692)
-![Screenshot 2025-07-09 123002](https://github.com/user-attachments/assets/bd7afce2-a936-4a50-9be0-c8726f08f26c)
-![Screenshot 2025-07-09 123103](https://github.com/user-attachments/assets/1094ff9b-1321-44da-bfb9-fcad229753db)
-![Screenshot 2025-07-09 123134](https://github.com/user-attachments/assets/0a7dfec8-a98f-4ac3-a8c5-fd21866e7294)
-![Screenshot 2025-07-09 123206](https://github.com/user-attachments/assets/be784676-ea10-4d36-9537-62ed7520f4f8)
-![Screenshot 2025-07-09 123229](https://github.com/user-attachments/assets/bd47a70a-7b65-4314-8fa0-c196fe57a9e4)
+<img width="1895" height="908" alt="Screenshot 2025-08-12 020324" src="https://github.com/user-attachments/assets/969acf0f-a32f-4e2d-bb4d-b4cadb47dea8" />
+<img width="1887" height="910" alt="Screenshot 2025-08-12 020430" src="https://github.com/user-attachments/assets/1e0a404a-8a94-49b8-86db-06aaa84b3c71" />
+<img width="1896" height="894" alt="Screenshot 2025-08-12 020510" src="https://github.com/user-attachments/assets/8866c451-4911-42ae-ac42-03bdfea1ff84" />
+<img width="1894" height="908" alt="Screenshot 2025-08-12 020547" src="https://github.com/user-attachments/assets/401957a5-cd6c-4626-be08-1ffc4e87d869" />
+<img width="1887" height="908" alt="Screenshot 2025-08-12 020611" src="https://github.com/user-attachments/assets/68e50793-e514-48b7-a1df-34e16168ff28" />
+
+<img width="1893" height="902" alt="Screenshot 2025-08-12 020645" src="https://github.com/user-attachments/assets/eb4b0298-93f4-4f64-9027-9f4f4e813651" />
